@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the repository and the original sources relevant to your claim."
+title: "Gateway Process — Evidence Review & Source Archive"
+type: dataset
+authors:
+  - family-names: "Gateway Process Evidence Project"
+version: "0.1.0"
+date-released: "2026-09-14"

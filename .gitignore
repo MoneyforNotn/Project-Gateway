@@ -1,0 +1,16 @@
+# OS/editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+
+# Office temporary files
+~$*.docx
+~$*.xlsx
+~$*.pptx
+
+# Temporary / backup files
+*.tmp
+*.bak
+*.swp
