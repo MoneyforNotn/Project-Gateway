@@ -1,94 +1,52 @@
-# Repository Setup Notes
+# Repository maintenance
 
-## Suggested repository name
+[Home](README.md) · [Contributing](CONTRIBUTING.md) · [Repository audit](docs/REPOSITORY_AUDIT.md)
 
-**`gateway-process-evidence`**
+## Which copy is published?
 
-Other good options:
+The public repository is [MoneyforNotn/Project-Gateway](https://github.com/MoneyforNotn/Project-Gateway). A local Git repository and a GitHub repository can have different histories even if their folders have the same name. A local commit saves to that folder; a push sends commits to its configured remote.
 
-- `gateway-process-research`
-- `gateway-process-sourcebook`
-- `gateway-process-evidence-review`
+The October 2026 audit found the public main branch contained only the top-level documents. The complete Desktop repository had the missing resource folders committed, but no remote configured. Recovery preserved both histories and used the public main branch as the base for the repair.
 
-The first is short, descriptive, and avoids presenting the project as an advocacy site.
+## Update through GitHub Desktop
 
-## Suggested GitHub description
+1. Choose the Project Gateway repository and confirm its local path in Repository settings.
+2. Confirm the remote is `https://github.com/MoneyforNotn/Project-Gateway.git`.
+3. Fetch origin and inspect the branch and changed files before pulling or pushing.
+4. Work on a separate branch. If local and remote histories differ, preserve local work before reconciling them; avoid force-pushing or replacing main.
+5. Commit the intended files, publish the branch, and open a pull request. Check the **Files changed** tab includes the resource folders, not just README links.
+6. After review and merge, fetch and update the local main branch.
 
-> Source archive, editable transcript, evidence review, and learning guide for the 1983 U.S. Army “Gateway Process” memorandum.
+If an editor reports a successful commit, still check GitHub for that commit. The editor may have committed locally without publishing.
 
-## Suggested topics
+## Check reader links before publishing
 
-```text
-gateway-process
-consciousness
-declassified-documents
-hemi-sync
-binaural-beats
-remote-viewing
-meditation
-neuroscience
-parapsychology
-history-of-science
-open-research
+From the repository root, with Python 3.10 or later:
+
+```sh
+python -m unittest discover -s scripts -p 'test_*.py'
+python scripts/check_links.py
 ```
 
-## Before the first public push
+The local check validates Markdown destinations, image paths, case-sensitive filenames, heading fragments, reference links, unresolved footnote markers, and source-inventory structure. The same check runs on pushes and pull requests through [Check reader links](.github/workflows/check-links.yml).
 
-- [ ] Choose the repository owner/organization.
-- [ ] Review `LICENSE-NOTES.md` and add an actual `LICENSE`.
-- [ ] Update `CITATION.cff` with the author/owner.
-- [ ] Update `CITATION.md` with the final GitHub URL.
-- [ ] Verify all five transcript exhibit images render correctly.
-- [ ] Confirm the two source PDFs are acceptable to redistribute in your intended jurisdiction/context.
-- [ ] Decide whether the Word files should remain in Git or be distributed through Releases.
-- [ ] Enable Issues if you want evidence corrections and source submissions.
-- [ ] Add branch protection if multiple contributors will edit the evidence review.
-- [ ] Create an initial tagged release such as `v0.1.0`.
+For a live external-URL report:
 
-## Recommended GitHub settings
+```sh
+python scripts/check_links.py --external --report external-link-report.json
+```
 
-### About panel
+HTTP 403/429, timeouts, maintenance pages, and publisher challenges require manual inspection. A successful HTTP response is not proof that the page still contains the cited paper. Confirm the title, author, DOI, and claim. External requests are excluded from the required check because host restrictions can change independently of this repository.
 
-Use the description above and add the GovInfo source as the website link if you do not yet have GitHub Pages.
+## Keep the editions clear
 
-### Issues
+- Markdown is the current reader edition; update its links whenever headings or files move.
+- Source PDFs and historical exhibit images are preserved reference assets. Record any replacement and its provenance.
+- Word files are preserved September 2026 editions. Label a new export with its revision date before replacing them.
+- Record the date and scope of evidence updates in the [changelog](CHANGELOG.md). An availability check is not a new literature search.
+- Keep full-text, abstract-only, and partial access notes in the [inventory](research/05_Research_Source_Inventory.json); update the [reader source guide](research/SOURCES.md) with it.
+- Do not mirror proprietary Gateway/Monroe audio without permission.
 
-Enable Issues. The repo includes templates for:
+## Owner decisions still open
 
-- new evidence,
-- transcript/source corrections.
-
-### Discussions
-
-Optional, but useful if you expect long debates about interpretation. Keep actual evidence changes in Issues/PRs so claims remain auditable.
-
-### Wiki
-
-Probably unnecessary. The repository's Markdown files already function as a curated wiki with version control.
-
-### GitHub Pages
-
-A good future enhancement. The current Markdown hierarchy could be converted into a small evidence explorer with:
-
-- claim cards,
-- source filters,
-- evidence-strength labels,
-- interactive chronology,
-- side-by-side “1983 claim / modern evidence” views.
-
-## Social preview idea
-
-If you later create a social card, keep it restrained:
-
-**Gateway Process**  
-*Source Archive · Evidence Review · Learning Guide*
-
-Background concept: one of the original hand-drawn torus/hologram figures on an off-white archival-paper background, with modern typography. Avoid “CIA PROVED ASTRAL PROJECTION” style framing; accuracy is one of the project's differentiators.
-
-## First release title
-
-**v0.1.0 — Source archive and evidence review**
-
-Suggested release summary:
-
-> Initial public research edition containing the government facsimile, separately sourced complete copy, editable transcript, 2026 evidence review, structured source inventory, methodology, glossary, FAQ, research roadmap, and evidence-conscious practice materials.
+The original project text has no blanket reuse license. The owner can select one after considering [Licensing notes](LICENSE-NOTES.md); a reader-resource repair does not grant new reuse rights. A tagged release, DOI archive, Discussions, and a separate website are optional future choices. All core reading routes work directly in GitHub without them.

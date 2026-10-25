@@ -1,5 +1,22 @@
 # Contributing
 
+[Home](README.md) · [Methodology](research/METHODOLOGY.md) · [Sources](research/SOURCES.md)
+
+<details>
+<summary>On this page</summary>
+
+- [Good contributions](#good-contributions)
+- [Before submitting a new scientific source](#before-submitting-a-new-scientific-source)
+- [Claim-writing rules](#claim-writing-rules)
+- [Transcript corrections](#transcript-corrections)
+- [Evidence-review changes](#evidence-review-changes)
+- [Extraordinary claims](#extraordinary-claims)
+- [Health claims](#health-claims)
+- [Copyright](#copyright)
+- [Tone](#tone)
+
+</details>
+
 Contributions are welcome from skeptics, practitioners, historians, neuroscientists, physicists, psychologists, statisticians, parapsychology researchers, archivists, and careful readers.
 
 The repository is deliberately **not** organized around defending or attacking Gateway.
@@ -109,3 +126,6 @@ Be precise without being contemptuous.
 A person can have a profound experience while being mistaken about its mechanism. A critic can identify a real methodological problem without explaining every reported result.
 
 That distinction is central to this project.
+
+
+[Back to top](#contributing) · [Home](README.md) · [Methodology](research/METHODOLOGY.md) · [Sources](research/SOURCES.md)

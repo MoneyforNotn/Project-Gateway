@@ -1,84 +1,55 @@
-# Start Here
+# Start here
 
-If this is your first time opening the repository, this page is the shortest path through it.
+[Home](README.md) · [Glossary](research/GLOSSARY.md) · [Learning path](practice/LEARNING_PATH.md)
 
-## The 60-second version
+**About 5 minutes.** Leave this page knowing what the document is, which claims need separate tests, and where to go next.
 
-The 1983 *Analysis and Assessment of Gateway Process* is an **Army intelligence memorandum**, later released through CIA archival records. It tries to explain the Monroe Institute's Gateway training using meditation, hypnosis, biofeedback, binaural audio, neuroscience, holography, quantum ideas, parapsychology, and religious philosophy.
+## The story in sixty seconds
 
-The project finds four broad things:
+In 1983, Army officer Wayne M. McDonnell tried to explain the Monroe Institute's Gateway training through psychology, neuroscience, physics, and metaphysics. His memorandum later entered CIA records. It is an **Army assessment**, not a CIA scientific finding; declassification is not endorsement.
 
-1. **The experiential core is plausible.** Relaxation, focused attention, imagery, suggestion, expectancy, humming/vocalization, and repeated practice can change subjective experience.
-2. **The audio evidence is mixed.** Binaural beats can produce measurable auditory responses and some studies report modest outcomes, but reliable whole-brain “synchronization” is unsettled.
-3. **The memo's physical theory is not demonstrated.** It repeatedly moves from metaphor to mechanism, treats different meanings of “energy” as interchangeable, proposes an unsupported body–Schumann-resonance communication channel, and contains a Planck-length dimensional error.
-4. **Extraordinary information claims remain contested.** Remote-viewing literature includes positive findings and meta-analyses, but independent replication, procedural artifacts, judging, trainability, and operational reliability remain unresolved.
+The project keeps two questions open to inspection: what can people experience, and what does an experience establish about the world?
 
-## The one distinction to remember
+The [evidence review](research/04_Gateway_Process_Evidence_Review_and_Learning_Guide.md) finds:
 
-Keep these questions separate:
+- Attention, relaxation, imagery, suggestion, and repeated practice can alter experience.
+- Audio research reports mixed, context-dependent effects; whole-brain synchronization is a separate, unsettled claim.
+- The memorandum's physics does not demonstrate its proposed mechanism. It moves from metaphor to mechanism and even treats a length as a speed.
+- Remote-viewing studies include positive findings and serious methodological disputes. Dependable operational use was not established in the reviewed intelligence program.
 
-> **What did I experience?**  
-> **What mechanism might explain it?**  
-> **Did it reveal independently verifiable information?**
+## Three questions to carry with you
 
-A strong “yes” to the first question is not automatically a “yes” to the third.
+> What did I experience?<br>
+> What mechanism might explain it?<br>
+> Did it reveal independently verifiable information?
 
-## Ten-minute reading path
+A vivid experience can be worth understanding without determining the answers to the other questions.
 
-1. Read the main [README](README.md).
-2. Scan [Evidence at a glance](research/EVIDENCE_AT_A_GLANCE.md).
-3. Read [FAQ](FAQ.md), especially the provenance and “CIA proved it” questions.
+## Choose your available time
 
-## One-hour reading path
+| Time | Route | What you can take away |
+|---|---|---|
+| Ten minutes | [Evidence at a glance](research/EVIDENCE_AT_A_GLANCE.md), then [FAQ](FAQ.md) | The major claims, their boundaries, and the source-history corrections |
+| One hour | [Review's opening matrix](research/04_Gateway_Process_Evidence_Review_and_Learning_Guide.md#executive-evidence-matrix), then one topic and its linked sources | A claim you can trace from summary to underlying evidence |
+| Six weeks | [Learning path](practice/LEARNING_PATH.md), with optional exercises or a reading-only route | A record of what you learned, observed, and still cannot conclude |
 
-1. Read the opening and executive evidence matrix in the [full evidence review](research/04_Gateway_Process_Evidence_Review_and_Learning_Guide.md).
-2. Read the [editable transcript](transcript/03_Gateway_Process_Editable_Transcript.md), especially:
-   - §§ 5–10: Hemi-Sync, frequency-following response, resonance, “energy entrainment”
-   - §§ 11–27: hologram, time-space, the Absolute, out-of-body theory
-   - §§ 28–33: actual Gateway methods and Focus states
-   - § 38: McDonnell's proposed experimental/operational program
-3. Return to the evidence review's sections on:
-   - audio and Hemi-Sync,
-   - OBE and lucid dreaming,
-   - Schumann resonance / holography / quantum claims,
-   - remote viewing,
-   - the six-week learning path.
+Reading estimates are guides, not deadlines. The complete transcript and review are longer reference works; use their contents to select a section.
 
-## If you want the historical record
+## Read the original beside the analysis
 
-Start with:
+Start with the [transcript's page navigation](transcript/03_Gateway_Process_Editable_Transcript.md). For a focused first reading:
 
-- [Government-preserved facsimile](source/01_Source_GovInfo_CIA_Release.pdf)
-- [Complete supplementary facsimile](source/02_Supplement_Complete_Copy_With_Page_25.pdf)
-- [Editable transcript](transcript/03_Gateway_Process_Editable_Transcript.md)
-- [Provenance & editorial notes](research/PROVENANCE_AND_EDITORIAL_NOTES.md)
+1. Read §§ 5–10 on audio and resonance, then the [audio review](research/04_Gateway_Process_Evidence_Review_and_Learning_Guide.md#audio-entrainment-and-hemi-sync).
+2. Read §§ 18–27 on time-space and out-of-body theory, then the [physics review](research/04_Gateway_Process_Evidence_Review_and_Learning_Guide.md#resonance-energy-holograms-and-quantum-physics).
+3. Read §§ 28–33 on methods and information collection, then the [sleep and OBE discussion](research/04_Gateway_Process_Evidence_Review_and_Learning_Guide.md#sleep-lucid-dreams-and-out-of-body-experience).
+4. Read § 38's proposed program, then the [research roadmap](research/RESEARCH_ROADMAP.md).
 
-## If you want the science
+Use the [glossary](research/GLOSSARY.md) when a word carries several meanings. The [source guide](research/SOURCES.md) tells you whether the original review consulted a full paper, abstract, official summary, or partial record.
 
-Start with:
+## Check the historical record
 
-- [Full evidence review](research/04_Gateway_Process_Evidence_Review_and_Learning_Guide.md)
-- [Methodology](research/METHODOLOGY.md)
-- [Research source inventory](research/05_Research_Source_Inventory.json)
-- [Research roadmap](research/RESEARCH_ROADMAP.md)
+The [government PDF](source/01_Source_GovInfo_CIA_Release.pdf) has 29 leaves, reverses printed pages 17/18, and lacks printed page 25. The [supplementary PDF](source/02_Supplement_Complete_Copy_With_Page_25.pdf) has 30 leaves and supplies that page. Its separate provenance is preserved in the transcript. The sources do not establish why the page was omitted.
 
-The source inventory records not only findings, but also **access status and limitations**. That matters: an abstract-only source should not be treated as though the full study was audited.
+See [provenance and editorial notes](research/PROVENANCE_AND_EDITORIAL_NOTES.md) before drawing conclusions from archival gaps. Use [methodology](research/METHODOLOGY.md) to evaluate a scientific claim and [citation guidance](CITATION.md) to reference it.
 
-## If you want to practice
-
-Start with:
-
-- [Six-week learning path](practice/LEARNING_PATH.md)
-- [Session journal template](practice/SESSION_JOURNAL_TEMPLATE.md)
-
-The practice track intentionally does **not** require accepting the memo's cosmology. It treats unusual experiences as observations first, interpretations second.
-
-## If you remember only seven things
-
-1. The memo is an Army assessment, not a CIA scientific finding.
-2. Declassification is not endorsement.
-3. A binaural beat is not the same thing as whole-brain hemispheric synchronization.
-4. An out-of-body *experience* and literal perception from outside the body are different claims.
-5. A real Schumann resonance does not establish a telepathy channel.
-6. Quantum vocabulary does not substitute for a specified physical mechanism.
-7. The best experiments are designed so that a negative result is still informative.
+**Next:** [Evidence at a glance](research/EVIDENCE_AT_A_GLANCE.md) or [Week 1](practice/LEARNING_PATH.md).

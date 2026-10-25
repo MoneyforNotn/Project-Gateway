@@ -1,5 +1,28 @@
 # FAQ
 
+[Home](README.md) · [Start here](START_HERE.md) · [Glossary](research/GLOSSARY.md) · [Evidence review](research/04_Gateway_Process_Evidence_Review_and_Learning_Guide.md)
+
+**About 8 minutes.** Short answers to the recurring claims, with the full review and its sources one step away.
+
+<details>
+<summary>On this page</summary>
+
+- [Was the Gateway report written by the CIA?](#was-the-gateway-report-written-by-the-cia)
+- [Did the CIA or Army “prove” the Gateway Process works?](#did-the-cia-or-army-prove-the-gateway-process-works)
+- [Why is page 25 missing?](#why-is-page-25-missing)
+- [Is Hemi-Sync the same thing as binaural beats?](#is-hemi-sync-the-same-thing-as-binaural-beats)
+- [Do binaural beats synchronize the two brain hemispheres?](#do-binaural-beats-synchronize-the-two-brain-hemispheres)
+- [Are out-of-body experiences real?](#are-out-of-body-experiences-real)
+- [Is remote viewing proven?](#is-remote-viewing-proven)
+- [Does Schumann resonance support telepathy?](#does-schumann-resonance-support-telepathy)
+- [Does quantum physics support Gateway's extraordinary claims?](#does-quantum-physics-support-gateways-extraordinary-claims)
+- [What is wrong with the Planck-length passage?](#what-is-wrong-with-the-planck-length-passage)
+- [Can I still find Gateway useful if the physics is wrong?](#can-i-still-find-gateway-useful-if-the-physics-is-wrong)
+- [Is this repository trying to debunk Gateway?](#is-this-repository-trying-to-debunk-gateway)
+- [Is the practice risk-free?](#is-the-practice-risk-free)
+
+</details>
+
 ## Was the Gateway report written by the CIA?
 
 Not in the most direct sense.
@@ -108,3 +131,6 @@ The preferred stance is **curious, empirical, and calibrated**.
 No practice affecting attention, sleep, arousal, or intense introspection should be called universally risk-free.
 
 The broader meditation literature includes adverse experiences in some participants. Keep practice moderate, protect sleep, and pause if it is causing persistent distress, derealization, intrusive experiences, or impaired daily functioning.
+
+
+[Back to top](#faq) · [Home](README.md) · [Start here](START_HERE.md) · [Glossary](research/GLOSSARY.md) · [Evidence review](research/04_Gateway_Process_Evidence_Review_and_Learning_Guide.md)
