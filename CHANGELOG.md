@@ -1,5 +1,16 @@
 # Changelog
 
+## Reader resource revision — 2026-10-25
+
+- Restored the research, practice, source, transcript, figure, and issue-template folders absent from the public repository.
+- Moved reader routes near the top of the README; added restrained archival artwork and consistent navigation.
+- Expanded the glossary and six-week workbook, including a reading-only route and matching session journal.
+- Replaced unresolved Markdown footnote markers with linked citations and added a readable source guide.
+- Clarified source availability, evidence coverage dates, Word snapshot status, citation metadata, and repository maintenance.
+- Added a repeatable link/image/fragment audit and a GitHub check to prevent missing destinations from returning.
+
+This revision does not replace the original evidence search with a new systematic review. The earlier v0.1.0 heading describes the prepared package; it does not assert that a GitHub release tag exists.
+
 ## v0.1.0 — 2026-09-14
 
 Initial repo-ready research edition.

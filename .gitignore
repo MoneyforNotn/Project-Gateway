@@ -14,3 +14,8 @@ desktop.ini
 *.tmp
 *.bak
 *.swp
+
+# Local validation outputs
+__pycache__/
+*.pyc
+external-link-report.json

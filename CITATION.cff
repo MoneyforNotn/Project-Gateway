@@ -1,8 +1,10 @@
 cff-version: 1.2.0
-message: "If you use this repository, please cite the repository and the original sources relevant to your claim."
+message: "Cite the original memorandum for historical claims and the specific studies for scientific claims."
 title: "Gateway Process — Evidence Review & Source Archive"
 type: dataset
 authors:
-  - family-names: "Gateway Process Evidence Project"
-version: "0.1.0"
-date-released: "2026-09-14"
+  - name: "MoneyforNotn (repository maintainer)"
+repository-code: "https://github.com/MoneyforNotn/Project-Gateway"
+url: "https://github.com/MoneyforNotn/Project-Gateway"
+date-released: "2026-10-25"
+abstract: "Source archive, editable transcript, targeted evidence review, and educational resources for the Gateway Process memorandum."

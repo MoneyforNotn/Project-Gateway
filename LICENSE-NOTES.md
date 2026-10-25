@@ -1,5 +1,18 @@
 # Licensing Notes
 
+[Home](README.md) · [Citation](CITATION.md) · [Provenance](research/PROVENANCE_AND_EDITORIAL_NOTES.md)
+
+<details>
+<summary>On this page</summary>
+
+- [1. The 1983 U.S. Army memorandum](#1-the-1983-us-army-memorandum)
+- [2. Supplementary facsimile](#2-supplementary-facsimile)
+- [3. Project-created transcript and analysis](#3-project-created-transcript-and-analysis)
+- [Recommended choice](#recommended-choice)
+- [Decisions for the repository owner](#decisions-for-the-repository-owner)
+
+</details>
+
 This repository contains more than one kind of material, so a single license should not be chosen casually.
 
 ## 1. The 1983 U.S. Army memorandum
@@ -25,7 +38,7 @@ Before public redistribution at scale, review the hosting/source terms for the e
 
 The editable transcript contains editorial work. The evidence review, README, methodology, glossary, learning materials, and other repository text are project-created material.
 
-**No blanket license has been selected for these materials in this starter package.**
+**No blanket license has been selected for the project-created text.**
 
 Without a license, normal copyright rules apply.
 
@@ -37,10 +50,13 @@ If the goal is to encourage reuse while requiring attribution, a strong default 
 
 If the repository later includes software/code, consider licensing code separately (for example MIT) rather than applying a documentation license to everything.
 
-## Before publishing
+## Decisions for the repository owner
 
 1. Decide who owns/authored the project's original material.
 2. Choose the license for project-created text.
 3. Keep source-material provenance explicit.
 4. Do not upload proprietary Monroe/Gateway audio without authorization.
 5. Add the selected `LICENSE` file at repository root.
+
+
+[Back to top](#licensing-notes) · [Home](README.md) · [Citation](CITATION.md) · [Provenance](research/PROVENANCE_AND_EDITORIAL_NOTES.md)

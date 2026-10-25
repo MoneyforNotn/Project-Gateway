@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="title desc">
+  <title id="title">Project Gateway — a field guide to altered experience</title>
+  <desc id="desc">An archival navy panel with fine concentric rings. Source archive, evidence review, learning guide.</desc>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#e6e0cf" stroke-opacity=".055"/></pattern>
+    <clipPath id="panel"><rect width="1280" height="320" rx="4"/></clipPath>
+  </defs>
+  <g clip-path="url(#panel)">
+    <path fill="#142b36" d="M0 0h1280v320H0z"/>
+    <path fill="url(#grid)" d="M0 0h1280v320H0z"/>
+    <g fill="none" stroke="#bda675" stroke-width="1" opacity=".45">
+      <circle cx="1060" cy="160" r="224"/><circle cx="1060" cy="160" r="180"/>
+      <circle cx="1060" cy="160" r="136"/><circle cx="1060" cy="160" r="92"/>
+      <ellipse cx="1060" cy="160" rx="44" ry="180"/>
+      <path d="M805 160h510M1060-75v470" opacity=".5"/>
+    </g>
+    <circle cx="1060" cy="160" r="4" fill="#e6d4a9"/>
+    <path d="M56 54h42" stroke="#bda675" stroke-width="3"/>
+    <g font-family="Arial, Helvetica, sans-serif" fill="#f2efe5">
+      <text x="56" y="100" font-size="15" letter-spacing="3" fill="#cebd97">SOURCE ARCHIVE / FIELD GUIDE</text>
+      <text x="52" y="173" font-family="Georgia, 'Times New Roman', serif" font-size="62">Project Gateway</text>
+      <text x="56" y="216" font-size="22" fill="#d9e1df">What changes in experience? What follows from the evidence?</text>
+      <text x="56" y="275" font-size="14" letter-spacing="1.7" fill="#b7c6c9">ORIGINAL RECORDS · EVIDENCE REVIEW · SIX-WEEK LEARNING PATH</text>
+    </g>
+  </g>
+</svg>
