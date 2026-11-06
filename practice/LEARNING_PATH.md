@@ -1,168 +1,180 @@
-# Six-Week Gateway Learning Path
+![Project Gateway field guide](../assets/gateway-field-guide.svg)
 
-[Start here](../START_HERE.md) · [Glossary](../research/GLOSSARY.md) · [Session journal](SESSION_JOURNAL_TEMPLATE.md) · [Evidence review](../research/04_Gateway_Process_Evidence_Review_and_Learning_Guide.md)
+# Six-week Gateway learning path
 
-Explore attention, imagery, audio, and the claims made about them. By the end, you should be able to describe an experience clearly, trace an explanation to its evidence, and decide whether a practice earns a place in ordinary life.
+[Start here](../START_HERE.md) · [Case journal](SESSION_JOURNAL_TEMPLATE.md) · [Master Key companion](../research/MASTER_KEY_COMPANION.md) · [Glossary](../research/GLOSSARY.md)
 
-No purchase, special equipment, or belief in the memorandum's cosmology is required. Silence works for the practice route. This is an educational workbook, not the Monroe Institute's Gateway curriculum, a treatment program, or a validated six-week intervention.
+Imagine a first-time visitor following your map to a meeting room. They cross the lobby, turn at the stairs, and arrive on time. In your mind they are already inside. What did the image assume about the building?
 
-> **The question running through all six weeks:** what changed, and what would distinguish the possible explanations?
+Follow one small case across six weeks. Use attention and imagination, trace what changed, and check one result in the world. Read Charles F. Haanel's *The Master Key System* alongside Wayne M. McDonnell's *Analysis and Assessment of Gateway Process*. Both ask how consciousness shapes events. Their answers range from choices people make to claims about the nature of reality.
 
 ## Choose a route
 
-| Route | What to do | What to keep |
-|---|---|---|
-| **Read and investigate** | Follow each week's reading and reading-only task. Skip every exercise involving altered states or audio. | One short claim card each week: claim → source → observation needed → remaining uncertainty. |
-| **Read and try** | Add the modest exercises below and use the journal. Shorten or skip a session when needed. | Session records, next-day checks, and a weekly review. |
+- **Try it.** Read [Before practice](#before-practice), then [set up a small case](#preparation-before-week-1) and keep one [private record](SESSION_JOURNAL_TEMPLATE.md#case-record). A sketch or a few words can stand in for a mental image. Quiet works throughout.
+- **On paper.** [Meet the map case](#map-case) and [start Week 1 on paper](#paper-week-1). Use the fictional details throughout. The exercises require no audio, special equipment, or personal disclosure.
 
-Both routes reach the same final audit. You can switch routes at any point. The schedule is a pacing suggestion; repeat a week or take a break without trying to catch up through longer sessions.
+Each week has a short orientation, a small task, and a question. Keep one record for your case. If you switch to a different case, mark the change and use the earlier prompts to fill in any context you need. Source passages and the companion are optional, with separate times. A missed session, a blank impression, or an unchecked result can go in the record as it stands.
 
 ## At a glance
 
-Times include reading, notes, and review; estimates assume short notes rather than full papers. Reading-only weeks usually take 25–40 minutes.
+| Week | Add to the record | Time after orientation |
+|---|---|---|
+| [1 · Stillness and choice](#week-1-stillness-and-choice) | An urge, a response, and one outcome to check | Try 5 min · Paper 3 min |
+| [2 · Attention and release](#week-2-attention-and-release) | A distraction and what you returned to | Try 5 min · Paper 3 min |
+| [3 · Remembering and inventing](#week-3-remembering-and-inventing) | A remembered detail checked against the original | Try 8 min · Paper 4 min |
+| [4 · What can an image set in motion?](#week-4-what-can-an-image-set-in-motion) | A plan before and after imagining, an action, and the observed result | Try 10 min + action and 3–5 min later · Paper 5 min |
+| [5 · Where did the answer come from?](#week-5-where-did-the-answer-come-from) | An idea, its possible source, and a check | Try 5 min + a break and check · Paper 4 min |
+| [6 · Agency, service, and interpretation](#week-6-agency-service-and-interpretation) | A conclusion and one next check | Try or paper 8 min |
 
-| Week | Question | Practice route | Approximate time | Takeaway |
-|---|---|---|---|---|
-| [Preparation](#preparation-before-week-1) | What would count as useful? | 3–7 days of brief baseline records | 15 minutes setup + 2 minutes/day | One outcome and one stop rule |
-| [1 · Attention](#week-1-attention-and-relaxation) | Can the routine be repeated? | Three short attention sessions | 50–70 minutes | A reproducible description |
-| [2 · Audio](#week-2-audio-and-expectancy) | What does audio add? | Four sessions; six if adding a third condition | 80–110 minutes | A modest personal comparison |
-| [3 · Imagery](#week-3-imagery-and-an-ordinary-action) | Does an insight survive a practical test? | Three sessions and one small action | 60–80 minutes | An idea checked against events |
-| [4 · Sleep](#week-4-sleep-dreams-and-self-location) | What can a remembered experience establish? | Optional brief notes after natural waking | 35–50 minutes | Clearer distinctions about sleep and memory |
-| [5 · Verification](#week-5-information-and-independent-verification) | How could a hidden-information claim be tested? | Design audit; optional concealed-target demonstration | 35–50 minutes; optional demonstration adds about 2 hours across all roles | A protocol that exposes its own weak points |
-| [6 · Integration](#week-6-integration-and-audit) | What is worth keeping? | Review records and choose a next step | 45–60 minutes | A written, revisable decision |
+**Jump to paper activities** [Week 1](#paper-week-1) · [Week 2](#paper-week-2) · [Week 3](#paper-week-3) · [Week 4](#paper-week-4) · [Week 5](#paper-week-5) · [Week 6](#paper-week-6)
+
+[Audio, sleep, and concealed-target explorations](OPTIONAL_EXPLORATIONS.md) are available alongside the six weeks.
 
 ## Before practice
 
-Use a safe, comfortable place where reduced alertness is acceptable. Keep audio at a comfortable level. Do not practice while driving, operating machinery, or doing another hazardous task. Keep breathing unforced; eyes may stay open, and an ordinary sight or sound can replace attention to breathing.
+Choose a safe, comfortable place. Keep breathing easy. Keep your eyes open or change position whenever you like. Practice when you can give the activity your attention and return to ordinary tasks comfortably.
 
-Stop a session if it is distressing. Pause the practice route if anxiety, intrusive experiences, troubling detachment, disrupted sleep, or impaired daily functioning persist or worsen. Return to ordinary routines and seek qualified support for persistent symptoms. Keep usual medical and mental-health care in place. NCCIH notes that meditation safety research is limited and that relaxation can occasionally produce unwanted experiences. See its [meditation safety guidance](https://www.nccih.nih.gov/health/meditation-and-mindfulness-effectiveness-and-safety) and [relaxation guidance](https://www.nccih.nih.gov/health/relaxation-techniques-what-you-need-to-know).
-
-An unusual impression is something to record. Do not use it alone for medical, financial, legal, security, or high-stakes interpersonal decisions.
+Stop if distressed. Pause if anxiety, troubling detachment, disrupted sleep, or difficulty with daily tasks persists. Use ordinary routines and seek qualified support if the effects persist or worsen. Keep usual care in place. Check unusual impressions independently before making consequential decisions. See [practice guidance and safety sources](OPTIONAL_EXPLORATIONS.md#before-practice).
 
 ## Preparation before Week 1
 
-**Read:** [Start here](../START_HERE.md) and [the four layers of claim](../research/METHODOLOGY.md#four-layers-of-claim).
+**Try it · about 3 minutes.** Pick something small you can observe and revisit, such as a map, a work surface, or a set of instructions. Save a photo or a short description of how it is now. Write what you hope someone could do differently, and who or what could help you check. Use willing participants and agree on the task before involving anyone.
 
-1. **Write one question.** For example: “Does this short routine leave me less tense and still able to do my usual tasks the following day?” Avoid a goal such as reaching a particular Focus level.
-2. **Choose one immediate outcome.** The default is tension, rated from **0 = none** to **10 = as tense as I can imagine**. Record it before and after sessions. These are personal ratings, not a clinical assessment.
-3. **Choose one daily outcome.** For example, whether one preselected 15-minute work, study, or household task was completed by day's end: yes/no. Choose a task that is normally feasible. Keep its definition stable. An alternative is a consistent personal sleep-quality rating, **0 = very poor, 10 = very restful**.
-4. **Choose a stop rule.** Example: “I will pause if a session leaves distress that carries into my next day.” The guidance above applies even if a personal rule has not been reached.
-5. **Take a baseline for 3–7 days.** Keep your usual routine. At the planned session time, note tension. At day's end, record the daily outcome; record sleep quality after waking. This gives context for ordinary variation, not a control group.
-6. **Set a manageable schedule.** Start with three sessions in Week 1 and reserve ten minutes for its review. Keep records privately in a notebook or a local copy of the [journal](SESSION_JOURNAL_TEMPLATE.md).
+<a name="map-case"></a>
 
-**Reading-only alternative:** complete steps 1 and 4 as a hypothetical study design, then write a claim card. No baseline or personal practice is required.
+> **The map case.** A library volunteer wants a first-time visitor to find an evening meeting room unaided. They save their first map, which begins at the lobby, and invite a willing visitor to try it in Week 4. [Start Week 1 on paper](#paper-week-1)
 
-## A simple session
+<a name="week-1-attention-and-relaxation"></a>
+<a name="week-1"></a>
 
-Allow about **12 minutes**. A shorter session is acceptable; record its actual duration. A vivid session and an uneventful session both belong in the record.
+## Week 1. Stillness and choice
 
-1. **Before — 1 minute.** Record the condition, tension, and expected helpfulness: **0 = no help expected, 10 = very helpful**. Note poor sleep or another unusual circumstance.
-2. **Attend — up to 8 minutes.** Follow the week's instructions. Notice when attention wanders and return to the chosen anchor. No special sensation is required.
-3. **Return — 1 minute.** Look around, name a few ordinary objects, move comfortably, and reorient before standing.
-4. **Record — 2 minutes.** Rate tension again. Write what happened before explaining why. Note discomfort and whether the planned session was completed, shortened, or stopped.
-5. **Next day — 1 minute.** Check sleep, the chosen daily outcome, and any lingering effect at a consistent time. If the outcome can only be assessed at day's end, finish the entry then.
+**Orientation · 1 minute.** Haanel begins by asking a student to sit still while thoughts continue. He also proposes that each person expresses a universal consciousness. A short pause can show the difference between an urge and a movement. Consider what the experience could tell you about the subject who noticed both. [Parts 1–4](../research/MASTER_KEY_COMPANION.md#parts-1-4)
 
-For the default immediate outcome, **tension change = after − before**. A change from 7 to 5 is −2. Lower values indicate less reported tension; they do not identify its cause. Continue the same daily-outcome record used in the baseline, including days without sessions.
+**Try it · 5 minutes.** Sit comfortably with your case in mind for up to one minute. Move if you need to. Record one sensation, urge, and response, or record what was absent. Write one observable outcome for your case. Give it a check you could do in Week 4.
 
-## Week 1: Attention and relaxation
+<a name="paper-week-1"></a>
 
-**Read, about 15 minutes:** [Meditation, hypnosis, biofeedback, and imagery](../research/04_Gateway_Process_Evidence_Review_and_Learning_Guide.md#meditation-hypnosis-biofeedback-and-imagery). Use the [glossary](../research/GLOSSARY.md) for Focus 10 and the distinction between a program label and a measured state.
+**On paper · 3 minutes.** A library volunteer wants their map to guide a first-time visitor to an evening meeting room. The volunteer feels the chair, wants to reach for the draft, and waits until the minute ends. They decide to check whether a visitor reaches the room without asking for directions. Sort those details into sensation, urge, response, and outcome.
 
-**Try three sessions:** use the [simple session](#a-simple-session). During the attention period, choose one neutral anchor: an ordinary sound, the feeling of contact with a chair, or easy breathing. Each time attention wanders, return to it. Keep the same anchor across the three sessions. If eight minutes feels too long, use five and record that choice.
+**Keep one line.** Which part could another person have observed, and what could only the person doing the exercise report? On paper, answer for the volunteer.
 
-**Reading-only task:** take the claim “mind awake, body asleep.” Write separate descriptions of what someone might report, what a sleep researcher would need to measure, and what the phrase alone cannot establish.
+**Optional source reading · 2–3 minutes.** Haanel Part 1 ¶24–26 and ¶44–45. Read the preparation at the end of [Gateway §28](../transcript/03_Gateway_Process_Editable_Transcript.md#28-gateway-method).
 
-**Finish with:** three records or one claim card. Review for ten minutes: Was the routine manageable? Did it affect the next day? Can the session be described without a Focus label or a proposed mechanism? Repetition and an honest record are this week's outcome.
+<a name="week-2"></a>
 
-## Week 2: Audio and expectancy
+## Week 2. Attention and release
 
-**Read, about 20 minutes:** [Audio, entrainment, and Hemi-Sync](../research/04_Gateway_Process_Evidence_Review_and_Learning_Guide.md#audio-entrainment-and-hemi-sync). Distinguish a binaural beat percept, a measured brain response, and a practical benefit.
+**Orientation · 1 minute.** When Haanel asks students to inhibit thought, he expects thoughts to keep arriving. Later he introduces physical and mental release. McDonnell's preparation uses a pictured box to set concerns aside. This exercise keeps one concern available for later while you briefly return to a chosen detail. [Parts 1–4](../research/MASTER_KEY_COMPANION.md#parts-1-4)
 
-**Try a small comparison:**
+**Try it · 5 minutes.** Write one question about the case. For a minute, look at one detail that could help answer it. When another concern appears, jot a word for it if useful, let it wait, and return to the detail. Note the concern and the first thing you noticed after returning. Keep the concern private.
 
-1. Use **A: quiet rest** and **B: ordinary relaxing music or neutral audio**. If you already have a lawful binaural or Hemi-Sync recording, you may add **C: that recording**. No purchase is needed.
-2. Fix the attention period at eight minutes and keep posture, approximate time of day, and comfortable playback level as similar as practical. Do not add new imagery or instructions to just one condition. If a recording includes guidance or music, note that the comparison includes those differences too.
-3. Make two slips, A and B. Shuffle them and schedule one session per day in that order. Shuffle again for a second block. With C, use three slips per block. This gives two sessions per condition: four sessions, or six with C.
-4. Before each session, record expected helpfulness. After it, record tension change; complete the next-day check. Retain short, interrupted, and disappointing sessions with their circumstances.
-5. List every result by condition, then calculate the average tension change for each. Check the daily outcomes and discomfort too. Two observations per condition are a starting description, not a dependable ranking.
+<a name="paper-week-2"></a>
 
-**Reading-only task:** design the same comparison on paper. Explain what silence controls for, what ordinary audio controls for, and why knowing the condition leaves expectancy unresolved.
+**On paper · 3 minutes.** The volunteer means to look at the first turn on the map. They start thinking about tomorrow's agenda, write “agenda” on a separate page, and look back. They see that the stairs are drawn but the turn is unlabeled. Write what returned to attention and what continued as a separate concern.
 
-**Finish with:** a small comparison table or study design. Which condition was preferred? Did high expectations accompany better ratings? Could guidance, familiarity, timing, or chance explain the difference? A personal preference does not establish an audio mechanism or validate the Gateway sequence. A promising result can be tested in another scheduled block later.
+**Keep one line.** What detail could you name after returning, and what did the return leave unresolved?
 
-## Week 3: Imagery and an ordinary action
+**Optional source reading · 2–3 minutes.** Haanel Part 2 ¶29–31 and Part 3 ¶29–33. Compare the sentence about the energy conversion box in [Gateway §28](../transcript/03_Gateway_Process_Editable_Transcript.md#28-gateway-method) and the first two sentences of [§29](../transcript/03_Gateway_Process_Editable_Transcript.md#29-hemi-sync-introduced).
 
-**Read, about 15 minutes:** [Gateway concepts translated into testable language](../research/04_Gateway_Process_Evidence_Review_and_Learning_Guide.md#gateway-concepts-translated-into-testable-language) and [imagery and problem solving](../research/04_Gateway_Process_Evidence_Review_and_Learning_Guide.md#imagery-and-problem-solving).
+<a name="week-3-imagery-and-an-ordinary-action"></a>
+<a name="week-3"></a>
 
-**Try three sessions:**
+## Week 3. Remembering and inventing
 
-1. Choose one small, low-stakes problem with an observable next step. Example: “What change could help me start tomorrow's reading?”
-2. At the start of the attention period, imagine placing unrelated concerns in a container to return to afterward. If imagery is difficult or unwelcome, write a short “later” list instead.
-3. State the question once, then return to the neutral anchor. Do not force an answer.
-4. Afterward, record any idea exactly as it occurred, including “no idea.” Separate the idea from claims about where it came from.
-5. Choose one feasible action and a check in advance. Example: “Put the article on my desk tonight; tomorrow record whether I started by 7 p.m.” Record the result even when the action fails.
+**Orientation · 1 minute.** Haanel moves from recalling a familiar place to studying a photograph and reconstructing it from memory. He later asks the reader to continue a remembered scene in imagination. Keep a remembered feature and a new idea on separate lines. [Parts 5–10](../research/MASTER_KEY_COMPANION.md#parts-5-10)
 
-**Reading-only task:** translate one imagery technique into observable instructions. Identify what could count as useful behavior and what additional evidence an extraordinary explanation would require.
+**Try it · 8 minutes.** Look at your photo, map, or original description for a minute. Put it away. Write or sketch one detail you think was there, then one detail you would add. Check the original. Record the exact match or discrepancy. Leave the proposed change labeled as an invention.
 
-**Finish with:** one action and its result, or a claim card. Did the idea help when acted on? Was the initial interpretation more confident than the result warranted? A useful idea can be kept while its origin remains uncertain.
+<a name="paper-week-3"></a>
 
-## Week 4: Sleep, dreams, and self-location
+**On paper · 4 minutes.** Before reopening the map, the volunteer writes “stairs to the right of the lobby” and sketches a possible arrow at the turn. The map shows stairs to the left from the main entrance, with no arrow. Mark which statement was checked and which mark was a proposal.
 
-**Read, about 20 minutes:** [Sleep, lucid dreams, and out-of-body experience](../research/04_Gateway_Process_Evidence_Review_and_Learning_Guide.md#sleep-lucid-dreams-and-out-of-body-experience).
+**Keep one line.** Which detail did you record before looking, and what in the original settled it?
 
-**Observe without changing sleep:** after natural waking on up to three mornings, optionally spend two minutes noting a remembered dream or sleep-onset experience. “No recall” is a complete entry. Keep the normal sleep schedule; this week does not call for alarms, sleep restriction, or attempts to induce disembodiment.
+**Optional source reading · 2–3 minutes.** Haanel Part 5 ¶30, Part 6 ¶24–26, and Part 7 ¶31. These passages give the original exercises.
 
-Keep three categories separate:
+<a name="week-4"></a>
 
-- **Remembered content:** what was recalled, recorded before checking anything else.
-- **Later association:** what the memory reminded you of afterward.
-- **External check:** any independently recorded fact, when it was checked, and whether it was predicted specifically in advance.
+## Week 4. What can an image set in motion?
 
-**Reading-only task:** explain REM, N3, and sleep-onset imagery in your own words. Describe why verified communication with a person in REM sleep and a concealed-target test answer different questions.
+**Orientation · 1–2 minutes.** Haanel describes imagining a desired end and finding ways to act and people to work with. He also holds that the individual participates in the same creative Mind that formed the universe. He asks students to work backward from a finished battleship through the steel, labor, and decisions that put it afloat. Gateway's *patterning* holds an outcome as already achieved in the expanded awareness the program calls Focus 12. McDonnell proposes that the thought pattern interacts with a universal hologram and can help bring about an outcome that otherwise might never occur. [Parts 5–10](../research/MASTER_KEY_COMPANION.md#parts-5-10)
 
-**Finish with:** a three-column note or a claim card. What was known before feedback? What detail was added later? Neither vividness nor a felt location identifies a sleep stage or establishes external perception; the review explains the additional measurements involved.
+**Try it · 10 minutes, plus one small action and a later check.**
 
-## Week 5: Information and independent verification
+1. **Before you picture it · 2 min.** Write what will count as success, when you will check it, and the first move you would make now. *On Thursday evening, a first-time visitor reaches the room unaided. I would add the room number.*
+2. **Enter the scene · 2 min.** Imagine, sketch, or describe the end as if it has happened. Record one detail and one assumption. Write down any change to your first move. *I pictured the visitor pausing at the stairs. I would add an arrow first. I assumed they could use the lobby after six.*
+3. **Trace it backward · 6 min.** List three things the outcome depends on. Mark one you can act on and one you need to check. Write the move you will make, then do it. Keep the original criterion. *Recognize the room, find the turn, enter the building. I’ll add the arrow. The visitor's attempt will show whether the lobby works after six.*
 
-**Read, about 25 minutes:** [Remote viewing and the standard of external verification](../research/04_Gateway_Process_Evidence_Review_and_Learning_Guide.md#remote-viewing-and-the-standard-of-external-verification) and [how extraordinary-information claims should be tested](../research/METHODOLOGY.md#how-extraordinary-information-claims-should-be-tested).
+**Check later · 3–5 minutes.** Record what happened before explaining why. Compare the first move you wrote before imagining, after imagining, and after tracing the causes. Identify one condition that mattered and one observation that could change your next move. If the check could not happen, write what prevented it.
 
-**Default task for both routes:** draw the path of information from target selection to final score. Mark who knows the target at each step. Find five places where information might leak or scoring might change after feedback. Then write the scoring rule before imagining a result.
+<a name="paper-week-4"></a>
 
-The optional demonstration below teaches why these safeguards matter. It is not a required progression into paranormal training and cannot diagnose an ability. Skip it if independent roles or secure records are impractical.
+**On paper · 5 minutes, or 6–7 with the orientation.** The volunteer initially plans to add the room number. Imagining the visitor pause at the stairs, they add an arrow instead. The check stays the same: the visitor will try to reach the room unaided on Thursday evening. At 6:10 p.m., the visitor finds the lobby door locked. A custodian shows them the side entrance. Once inside, the visitor sees the arrow and reaches the room. Did the original check succeed? Choose one fact to verify before revising the map again.
 
-### Optional concealed-target demonstration
+**Keep one line.** Where did the actual route first depart from the one imagined? In the map case, seeing the arrow tells us the visitor noticed it. To know whether the arrow was necessary, we would need a comparison with a route attempted without it.
 
-Allow about two additional hours across preparation, participant, and judge. No altered-state exercise is needed.
+**Consider the custodian.** On Haanel's account, the volunteer and custodian participate in the same Mind, and their choices still belong in the causal chain. McDonnell proposes that a projected thought can interact with a universal hologram and help bring about the outcome. [Optional comparison · 2–3 minutes for the opening](../research/HAANEL_AND_GATEWAY.md)
 
-1. **Fix the plan first.** Use four trials, each with four emotionally neutral candidate images. Write down the number of trials, one-choice scoring rule, roles, and how compromised trials will be reported. Do not add trials because a result looks promising.
-2. **Prepare comparable candidates.** A coordinator makes four fresh image sets in advance. Within each set, use distinct scenes with comparable image size, quality, and presentation. Remove captions and metadata cues. Randomly select one of the four as target with equal probability; the other three become decoys. Any candidate must have been equally eligible to be the target. Choosing a striking target first and adding dull decoys later breaks that symmetry.
-3. **Separate the roles.** The coordinator holds the target key and stays out of contact with the participant during reporting. The participant and any session helper know only the trial code. An independent judge must not know the key or receive hints from the coordinator.
-4. **Lock each report before feedback.** Give the participant up to five minutes per trial to write or draw impressions, including a blank report if nothing occurs. Save a dated copy in a record that will not be overwritten; give the unchanged copy to the judge. Keep subsequent additions separately. Do not reveal targets between trials.
-5. **Judge under blinding.** For each trial, present the unchanged report and all four candidate images with neutral labels in a newly randomized order. The coordinator saves the label-to-image mapping without revealing the target. The judge works without the coordinator present, selects exactly one best match even if all matches are weak, and locks that choice before any discussion or access to the key. No ties or rescoring after feedback.
-6. **Reveal and count.** Once all reports and judgments are locked, reveal the key. Score **1** when the judge's choice is the target and **0** otherwise. Retain every report, choice, mapping, and result. Mark any suspected leakage or protocol failure; report planned, completed, and scorable trials separately, without silently replacing trials.
+**Optional study question.** What could a comparison with and without patterning hold steady so that ordinary differences in action would be less likely to explain the result?
 
-**Scoring example:** if all four trials are scorable and the judge chooses the target in two, report **2 hits / 4 trials (50%)**. Under a no-information model, uniform target selection independent of the report and blinded choice gives **25% per trial**, or one hit on average across four trials. That average is not a required result. Four trials are a demonstration, not persuasive evidence for or against an extraordinary ability. A surprising score requires an audit of the procedure; a research claim needs a reviewed design and independent replication.
+**Optional source reading · 5–7 minutes.** Haanel Part 7 ¶5–8 and Part 8 ¶28–33. Read “Patterning” in [Gateway §30B](../transcript/03_Gateway_Process_Editable_Transcript.md#30-advanced-techniques).
 
-**Finish with:** a protocol critique, optionally accompanied by a complete demonstration record. Could the judge infer which image was the target? Were descriptions or scores revised after feedback? Would the same rules have been used for a miss?
+<a name="week-5"></a>
 
-## Week 6: Integration and audit
+## Week 5. Where did the answer come from?
 
-**Read, about 10 minutes:** [Personal development and epistemic discipline](../research/04_Gateway_Process_Evidence_Review_and_Learning_Guide.md#personal-development) and [the research roadmap](../research/RESEARCH_ROADMAP.md#eight-core-questions).
+**Orientation · 1 minute.** Haanel describes intuition as arriving suddenly and attributes it to a source beyond memory and experience. McDonnell also expects some answers to arrive later, sometimes as an impression or symbol, and proposes that expanded consciousness can acquire information. A later idea can be useful. Its source is a separate question. [Parts 17–20](../research/MASTER_KEY_COMPANION.md#parts-17-20)
 
-**Review, about 30 minutes:** use the [weekly audit](SESSION_JOURNAL_TEMPLATE.md#weekly-audit) and make one page containing:
+**Try it · 5 minutes, plus a break and check.** Pick one question left open by Week 4. Write what you already know, then do something ordinary. If an idea arrives, record it before looking up the answer. Mark what you think you knew beforehand, then check one detail against an accessible source. If nothing arrives, note that and take the next ordinary step.
 
-1. **What was actually done.** Count planned, completed, shortened, stopped, and missed sessions. Keep those categories visible.
-2. **What changed.** Compare the same daily outcome with the baseline. For audio, list all tension changes by condition. Include missing data, ordinary variation, and adverse effects.
-3. **What remains uncertain.** Consider expectancy, schedule changes, repeated practice, selective memory, and the small number of observations. A before/after difference does not establish causation.
-4. **What mattered outside sessions.** Did an action get done? Did sleep and routine remain stable? Did dramatic experiences have any lasting usefulness?
-5. **What happens next.** Choose to stop, continue one modest routine, or repeat one clearly defined comparison. Set a review date. Do not increase intensity just to produce something memorable.
+<a name="paper-week-5"></a>
 
-**Reading-only task:** revisit the earlier claim cards. Write a final card about the claim that changed most, naming the source or reasoning that changed it. Choose one question that would benefit from better evidence.
+**On paper · 4 minutes.** The volunteer asks where a first-time evening visitor should enter. Later, while washing a cup, they remember an “Evening entrance” sign near the side door. The volunteer had passed that sign on an earlier visit. The library's access notice lists that door as the designated evening entrance. Write what was remembered, what was already available, and what the notice independently confirms.
 
-**Finish with:** a decision you can revisit. “Interesting, but not useful for me” and “uncertain; needs a better test” are valid outcomes alongside a routine worth keeping.
+**Keep one line.** Which exact detail would have been surprising if you had never seen, heard, or inferred it before?
+
+**Optional source reading · 3–4 minutes.** Haanel Part 17 ¶20–23 and Part 20 ¶19. Compare “Problem Solving” in [Gateway §30A](../transcript/03_Gateway_Process_Editable_Transcript.md#30-advanced-techniques) with the opening paragraph of [§33](../transcript/03_Gateway_Process_Editable_Transcript.md#33-information-collection-potential), where McDonnell raises information distortion.
+
+<a name="week-6-integration-and-audit"></a>
+<a name="week-6"></a>
+
+## Week 6. Agency, service, and interpretation
+
+**Orientation · 1–2 minutes.** Haanel asks what a desired object is for and treats service as a way of participating in a larger whole. McDonnell's account of the Absolute asks whether a person's consciousness can participate in a larger consciousness while retaining a distinct identity. The two accounts give you a reason to notice where individual action ends and cooperation begins. [Parts 21–24](../research/MASTER_KEY_COMPANION.md#parts-21-24)
+
+**Try it or work on paper · 8 minutes.** Review your entries from Weeks 1–5. Mark one first-person report, one action, and one externally checked fact. Write the strongest account of what happened using those entries. Choose one idea from Haanel or McDonnell and say what it adds, such as a way to understand agency or a proposed effect that would need a separate comparison. Name one contribution from another person or material condition.
+
+<a name="paper-week-6"></a>
+
+**On paper · 8 minutes.** The volunteer revises the map to start at the signed side entrance and keeps the arrow. The original visitor needed the custodian. The published access information supports the new route, and a first-time visitor has yet to try the revised map. Use the earlier map entries for the task above, then propose a next check.
+
+**Keep one line.** Which observation changed your conclusion, and what one result would make you revise it again? End with a next step, or name the part you would leave unresolved.
+
+**Optional source reading · 4–6 minutes.** Haanel Part 16 ¶1–6, Part 23 ¶1–5, and Part 24 ¶18–19 and ¶30–31. Read the opening discussion of memory and identity in [Gateway §27](../transcript/03_Gateway_Process_Editable_Transcript.md#27-consciousness-in-perspective).
+
+## Optional explorations
+
+<a name="a-simple-session"></a>
+
+[Simple comparison session](OPTIONAL_EXPLORATIONS.md#a-simple-comparison-session)
+
+<a name="week-2-audio-and-expectancy"></a>
+
+[Audio and expectancy](OPTIONAL_EXPLORATIONS.md#audio-and-expectancy)
+
+<a name="week-4-sleep-dreams-and-self-location"></a>
+
+[Sleep, dreams, and self-location](OPTIONAL_EXPLORATIONS.md#sleep-dreams-and-self-location)
+
+<a name="week-5-information-and-independent-verification"></a>
+
+[Information and independent verification](OPTIONAL_EXPLORATIONS.md#information-and-independent-verification)
+
+<a name="optional-concealed-target-demonstration"></a>
+
+[Concealed-target demonstration](OPTIONAL_EXPLORATIONS.md#optional-concealed-target-demonstration)
 
 ## Sources and limits
 
-The weekly readings lead into this project's [targeted evidence review](../research/04_Gateway_Process_Evidence_Review_and_Learning_Guide.md) and [source inventory](../research/05_Research_Source_Inventory.json), which distinguish historical claims, modern findings, and access limitations. Adjacent research on meditation, audio, sleep, and imagery does not validate this workbook or the complete Gateway program. Session counts, timings, and rating scales here are practical editorial choices, not a clinically tested dose or diagnostic instrument.
-
-Use [Methodology](../research/METHODOLOGY.md) to assess an explanation, the [glossary](../research/GLOSSARY.md) to check a term, and the [journal](SESSION_JOURNAL_TEMPLATE.md) to preserve what was known before a result became a story.
+This is an educational workbook inspired by two historical texts. The suggested schedule is a pacing choice. Haanel's numbered paragraphs (¶) in the weekly assignments refer to the [modern edition PDF](https://www.thesecret.tv/wp-content/uploads/2015/04/Master-Key-System.pdf). The [companion](../research/MASTER_KEY_COMPANION.md) also links a transcription labeled 1919, where some paragraph numbers differ. The [evidence review](../research/04_Gateway_Process_Evidence_Review_and_Learning_Guide.md) distinguishes what has been studied from what the historical sources propose.

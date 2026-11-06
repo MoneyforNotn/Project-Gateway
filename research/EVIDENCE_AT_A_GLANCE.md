@@ -1,14 +1,17 @@
+![Project Gateway field guide](../assets/gateway-field-guide.svg)
+
 # Evidence at a Glance
 
 [Home](../README.md) · [Start here](../START_HERE.md) · [Full review](04_Gateway_Process_Evidence_Review_and_Learning_Guide.md) · [Sources](SOURCES.md)
 
-**About 5 minutes.** Use this map to choose a claim, then follow it to the discussion and underlying evidence. Labels summarize the September 2026 targeted review; they are not numerical certainty scores.
+**Read 3–5 minutes, or choose one claim.** The matrix summarizes the September 2026 Gateway review. The Haanel comparison below draws on a separate targeted reading of the evidence.
 
 <details>
 <summary>On this page</summary>
 
 - [Evidence labels used here](#evidence-labels-used-here)
 - [Executive matrix](#executive-matrix)
+- [Four questions to keep separate](#four-questions-to-keep-separate)
 - [Where the 1983 memo is strongest](#where-the-1983-memo-is-strongest)
 - [Where it becomes weakest](#where-it-becomes-weakest)
 - [The Planck-length example](#the-planck-length-example)
@@ -46,6 +49,17 @@ This page is a compact map of the conclusions developed in the full
 | [Schumann resonance](04_Gateway_Process_Evidence_Review_and_Learning_Guide.md#similar-frequencies-do-not-create-a-communication-channel) | The Earth-ionosphere cavity has measurable electromagnetic modes, driven mainly by lightning | Similar frequency numbers create a thought-transmission carrier between people | **Real phenomenon; unsupported Gateway coupling** |
 | [Holographic and quantum models](04_Gateway_Process_Evidence_Review_and_Learning_Guide.md#resonance-energy-holograms-and-quantum-physics) | Holography, entanglement, decoherence, and mathematical dualities are legitimate scientific subjects | Cosmic memory, mind-over-matter, or faster-than-light mental signaling | **Mostly metaphor / category error in the memo** |
 | [The Absolute and survival](04_Gateway_Process_Evidence_Review_and_Learning_Guide.md#spiritual-and-philosophical-implications) | Unity, survival, and consciousness can be discussed as philosophical or religious possibilities | The memo's physics demonstrates eternal personal consciousness | **Metaphysical interpretation** |
+
+## Four questions to keep separate
+
+| What is being claimed? | What would help you assess it? |
+|---|---|
+| **An image changes experience.** It makes a possibility feel clearer or more real. | A record of what changed in the person's experience. |
+| **An image changes an action.** It suggests a step that may help bring about a result. | A record of the decision, action, and outcome. A fair comparison can help isolate the contribution of imagery. |
+| **An impression reveals concealed information.** It contains a detail unavailable through ordinary means. | Independent target selection, a locked report, blinding, fixed scoring, and replication. |
+| **An intention directly changes an outside event.** The event becomes more likely through a route beyond action or communication. | A specified event and time window, safeguards against ordinary influence, a comparison, and replication. |
+
+Haanel's Universal Mind and McDonnell's Absolute are accounts of what reality is. Read the arguments alongside each other. If an account predicts one of the changes above, evaluate that prediction on its own terms. [Haanel and Gateway](HAANEL_AND_GATEWAY.md)
 
 ## Where the 1983 memo is strongest
 

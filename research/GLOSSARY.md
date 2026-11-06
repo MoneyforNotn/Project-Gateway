@@ -1,8 +1,10 @@
+![Project Gateway field guide](../assets/gateway-field-guide.svg)
+
 # Gateway Process glossary
 
 [Home](../README.md)
 
-Gateway brings familiar sensations and unusual claims into the same vocabulary. These definitions help separate what a person experiences, how it might happen, and what would need to be tested.
+Use the index to look up one term. A short entry takes about a minute. The labels distinguish what someone experiences, how the source explains it, and what evidence could test that explanation.
 
 **Browse by topic:** [Gateway practices](#group-practices) · [Audio, mind, and sleep](#group-mind) · [Physics and philosophy](#group-physics) · [Reading the evidence](#group-evidence)
 
@@ -21,14 +23,15 @@ For a short overview, start with [Evidence at a glance](EVIDENCE_AT_A_GLANCE.md)
 | F | [Focus 10](#term-focus-10) · [Focus 12](#term-focus-12) · [Focus 15](#term-focus-15) · [Focus 21](#term-focus-21) · [Frequency-following response](#term-ffr) |
 | G | [Gateway Experience](#term-gateway-experience) |
 | H | [Hemi-Sync](#term-hemi-sync) · [Hemispheric lateralization](#term-hemispheric-lateralization) · [Hologram / universal hologram](#term-hologram) · [Hypnosis](#term-hypnosis) |
-| I | [Information leakage](#term-information-leakage) · [Interoception](#term-interoception) |
-| L | [Living Body Map](#term-living-body-map) · [Lucid dreaming](#term-lucid-dreaming) |
+| I | [Information leakage](#term-information-leakage) · [Interoception](#term-interoception) · [Intuition](#term-intuition) |
+| L | [Law](#term-law) · [Living Body Map](#term-living-body-map) · [Lucid dreaming](#term-lucid-dreaming) |
 | M | [Mechanism](#term-mechanism) · [Meditation](#term-meditation) · [Meta-analysis](#term-meta-analysis) |
 | N | [N3 sleep](#term-n3-sleep) |
 | O | [Operational definition](#term-operational-definition) · [Out-of-body experience](#term-obe) |
 | P | [Patterning](#term-patterning) · [Planck length](#term-planck-length) · [Preregistration](#term-preregistration) · [Problem solving](#term-problem-solving) · [Publication bias](#term-publication-bias) |
 | R | [Randomization](#term-randomization) · [REM sleep](#term-rem-sleep) · [Remote viewing](#term-remote-viewing) · [Replication](#term-replication) · [Resonant Energy Balloon](#term-rebal) · [Resonant tuning](#term-resonant-tuning) |
-| S | [Schumann resonances](#term-schumann-resonances) · [Statistical and practical significance](#term-significance) · [Subjective experience](#term-subjective-experience) · [Systematic review](#term-systematic-review) |
+| S | [Schumann resonances](#term-schumann-resonances) · [Statistical and practical significance](#term-significance) · [Subconscious](#term-subconscious) · [Subjective experience](#term-subjective-experience) · [Systematic review](#term-systematic-review) |
+| U | [Universal Mind](#term-universal-mind) |
 
 The entries distinguish the memorandum's language from the project's evidence review. Source IDs such as **N01** and **P12** match the [source inventory][inventory], which records access status and limitations. The inventory and review describe a targeted review, not an exhaustive survey of every publication.
 
@@ -106,9 +109,9 @@ A literal defensive field has not been demonstrated. The psychological interpret
 
 ### Patterning
 
-Using intention to shape desired future outcomes. Goal clarification, mental rehearsal, salience, motivation, and subsequent behavior are testable interpretations.
+In the memorandum, the practitioner holds a goal as already achieved in Focus 12. McDonnell proposes that a thought-generated hologram interacts with the universal hologram to help realize the goal. [Gateway memorandum §30B](../transcript/03_Gateway_Process_Editable_Transcript.md#30-advanced-techniques)
 
-Thought alone changing outside events without a causal route requires separate evidence. See [Gateway concepts][concepts] and [imagery and problem solving][imagery].
+Haanel also describes imagining an end and acting toward it. He places both within an account of one creative Mind. Goal clarity, changed behavior, and direct external influence are distinct possible effects. [Haanel and Gateway](HAANEL_AND_GATEWAY.md)
 
 <a id="term-problem-solving"></a>
 
@@ -117,6 +120,12 @@ Thought alone changing outside events without a causal route requires separate e
 The memorandum describes receiving answers during expanded awareness. The exercise can be treated as incubation: define a problem, disengage, record later associations, then test them.
 
 A useful answer does not establish that it came from an external information store. See [imagery and problem solving][imagery].
+
+<a name="term-intuition"></a>
+
+### Intuition
+
+A judgment or idea that arrives before the person can say how they reached it. Haanel gives intuition a source beyond memory and experience. McDonnell proposes that some answers arrive as impressions or symbols during or after expanded awareness. In an everyday setting, learned cues or a break from a problem can help explain some sudden insights. The origin of an impression and the accuracy of its content are separate questions. [Haanel Parts 17–20](MASTER_KEY_COMPANION.md#parts-17-20) · [Gateway memorandum §30A](../transcript/03_Gateway_Process_Editable_Transcript.md#30-advanced-techniques)
 
 <a id="term-living-body-map"></a>
 
@@ -252,7 +261,13 @@ The same word can name a measured quantity, an analogy, or a felt experience. Th
 
 The memorandum uses this word for physical energy, vitality, information, intention, consciousness, and a metaphysical ground of reality.
 
-These meanings must be distinguished. A physical claim needs a defined quantity, units, and a way to measure it. A report of felt "energy" can be recorded as an experience without assuming a physical mechanism. See [how "energy" changes meaning][energy] and the [physics audit][physics-audit].
+Haanel also uses electrical and vital imagery to explain the activity of Mind. A physical claim needs a defined quantity, units, and a way to measure it. Felt energy can be recorded as an experience in its own right. [Haanel and Gateway](HAANEL_AND_GATEWAY.md) · [How the memorandum uses “energy”][energy] · [Physics audit][physics-audit]
+
+<a name="term-law"></a>
+
+### Law
+
+Haanel uses *law* for an invariant spiritual principle that he says links thought and conditions. He also appeals to physical laws, such as the conditions that let a ship float. A proposed empirical law needs stated conditions, a prediction, and a possible result that would count against it. A spiritual principle can also be examined for its premises and implications. [Haanel Parts 5–10](MASTER_KEY_COMPANION.md#parts-5-10) · [Haanel Parts 11–16](MASTER_KEY_COMPANION.md#parts-11-16)
 
 <a id="term-entrainment"></a>
 
@@ -290,9 +305,19 @@ A length and a velocity have different dimensions. The constant does not establi
 
 ### The Absolute
 
-The memorandum's infinite, timeless conscious ground of reality. This is a metaphysical or philosophical construct.
+The memorandum's infinite, timeless conscious ground of reality. McDonnell distinguishes the Absolute from the active holographic universe and asks how individual consciousness relates to both. Haanel's [Universal Mind](#term-universal-mind) gives a different account of how individuals participate in a whole. [Gateway memorandum §23](../transcript/03_Gateway_Process_Editable_Transcript.md#23-absolute-in-perspective) · [Spiritual and philosophical implications][philosophy]
 
-The physics in the memorandum does not establish it as an empirical conclusion. Readers can examine its meaning while keeping philosophical interpretation separate from experimental findings. See [spiritual and philosophical implications][philosophy].
+<a name="term-universal-mind"></a>
+
+### Universal Mind
+
+For Haanel, one creative intelligence underlies reality and acts through individual minds. That premise helps explain why service and the exercise of attention belong to the same system for him. An experiment about one effect of imagery can examine that effect. The broader claim asks what mind and individuality are. [Haanel Parts 1–4](MASTER_KEY_COMPANION.md#parts-1-4) · [Haanel and Gateway](HAANEL_AND_GATEWAY.md)
+
+<a name="term-subconscious"></a>
+
+### Subconscious
+
+Haanel groups habit, memory, involuntary bodily regulation, and access to the Universal under this term. McDonnell uses it in §30E when he proposes that an imagined vortex cues the mind through nonverbal symbols. Contemporary research studies narrower processes such as habit and implicit learning. Ask which process a passage means before carrying an explanation from one context into another. [Haanel Parts 1–4](MASTER_KEY_COMPANION.md#parts-1-4) · [Gateway memorandum §30E](../transcript/03_Gateway_Process_Editable_Transcript.md#30-advanced-techniques)
 
 [Back to lookup](#index)
 

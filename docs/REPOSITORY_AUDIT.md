@@ -2,6 +2,8 @@
 
 [Home](../README.md) · [Maintenance](../REPO_SETUP.md) · [Changelog](../CHANGELOG.md)
 
+This audit records the October 2026 repair of the public archive. For the current reader routes and follow-up checks, use the [README](../README.md) and [reader review](READER_REVIEW.md).
+
 ## Why the links failed
 
 The public main branch at commit `5a1ebf350c69b668ea1d063184172e237b0ab220` contained ten top-level files. Its README and Start Here pages linked to research, practice, transcript, and source directories absent from that tree. There were **35 broken local link occurrences**: 22 in README and 13 in Start Here.

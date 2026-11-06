@@ -2,7 +2,7 @@
 
 [Home](../README.md) · [Evidence review](04_Gateway_Process_Evidence_Review_and_Learning_Guide.md) · [Methodology](METHODOLOGY.md) · [Structured inventory](05_Research_Source_Inventory.json)
 
-The review uses **38 source records**. Each record states what was consulted and what that source can support. An abstract-level review is not a full audit of methods or data.
+The September review uses **38 source records**. Each record states what was consulted and what that source can support. The [Haanel and Gateway comparison](HAANEL_AND_GATEWAY.md) links a separate set of studies at the claims they address.
 
 **Coverage:** literature review prepared 8 September 2026. Availability notes and selected reported results were checked on 25 October 2026. This refresh is not a comprehensive new search. Some publishers block automated requests; local preserved facsimiles provide stable access to the historical document.
 

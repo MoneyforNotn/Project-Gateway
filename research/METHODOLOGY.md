@@ -2,7 +2,7 @@
 
 [Home](../README.md) · [Evidence map](EVIDENCE_AT_A_GLANCE.md) · [Source guide](SOURCES.md) · [Contribute](../CONTRIBUTING.md)
 
-**About 8 minutes.** A guide to deciding what a source supports, where an inference changes, and what would count against it.
+**Read 4–5 minutes, or choose a section.** A guide to deciding what a source supports and what would count against a claim.
 
 <details>
 <summary>On this page</summary>
@@ -14,6 +14,7 @@
 - [Access-status discipline](#access-status-discipline)
 - [Evidence language](#evidence-language)
 - [How extraordinary-information claims should be tested](#how-extraordinary-information-claims-should-be-tested)
+- [How to test direct influence](#how-to-test-direct-influence)
 - [How physics claims are audited](#how-physics-claims-are-audited)
 - [Update protocol](#update-protocol)
 
@@ -80,6 +81,8 @@ These claims require prospective recording, sensory isolation, blinding, decoys/
 **Question:** Is the effect reliable enough to matter in real decisions?
 
 A small statistical anomaly is not automatically a useful method. Operational use requires accuracy, calibration, low false-positive rates, robustness across people/settings, and the ability to identify correct information **before** feedback.
+
+The layers help organize evidence. In the course, distinguish an effect on someone's behavior from an effect on an external event through a route beyond ordinary action or communication. A proposed account of what mind is asks for a separate philosophical reading, including what premises it uses and whether it entails a testable prediction. [Claim map](HAANEL_AND_GATEWAY.md#what-each-claim-needs)
 
 ---
 
@@ -171,6 +174,14 @@ Information leakage can occur through filenames, thumbnails, helper reactions, t
 
 ---
 
+## How to test direct influence
+
+Here the question is whether an external outcome changes under a specified intention. Define the outcome, prediction, time window, and comparison before observing the result. Keep ordinary routes to the outcome equivalent across conditions and block opportunities for people who know the assignment to influence the outcome or scoring. Retain all trials and seek independent replication.
+
+A match to a concealed target tests information access. A journal can track how an image preceded a decision or action in one case. Both can inform the inquiry, and each answers a different question from a direct influence test. [Haanel and Gateway](HAANEL_AND_GATEWAY.md) · [Research roadmap](RESEARCH_ROADMAP.md)
+
+---
+
 ## How physics claims are audited
 
 Whenever a claim uses “energy,” “frequency,” “resonance,” “quantum,” or “holographic,” ask:
@@ -192,7 +203,7 @@ If those elements are absent, the language may still be useful as metaphor, phen
 
 When adding a new paper or source:
 
-1. Add it to `05_Research_Source_Inventory.json`.
+1. Record it with the relevant claim. Also update the [source inventory](05_Research_Source_Inventory.json) and [source guide](SOURCES.md) for the original Gateway evidence review.
 2. Record full bibliographic metadata and URL/DOI.
 3. Record access status.
 4. State the study design.

@@ -30,7 +30,11 @@ labels: evidence
 
 ## What it found
 
-## Which Gateway claim does this bear on?
+<a name="which-gateway-claim-does-this-bear-on"></a>
+
+## Which passage, claim, or reader task does this help with?
+
+Link the relevant page. For a book, name the edition and passage and say what it adds or challenges.
 
 ## Important limitations
 

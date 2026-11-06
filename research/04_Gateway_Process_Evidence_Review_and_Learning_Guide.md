@@ -2,7 +2,7 @@
 
 [Home](../README.md) · [Evidence map](EVIDENCE_AT_A_GLANCE.md) · [Glossary](GLOSSARY.md) · [Source guide](SOURCES.md)
 
-**Reference reading · about 45–60 minutes.** Literature review prepared 8 September 2026; navigation and citation links refreshed 25 October 2026. Selected sources were spot-checked; the literature search was not rerun. The [Word download](04_Gateway_Process_Evidence_Review_and_Learning_Guide.docx) preserves the original September edition.
+**Reference reading.** Start with the [executive matrix](#executive-evidence-matrix) (about 2 minutes), then choose a topic below. Most sections take 1–3 minutes. Allow 4–5 minutes for the [physics discussion](#resonance-energy-holograms-and-quantum-physics) and separate time for linked studies. The literature review was prepared on 8 September 2026. The [Word download](04_Gateway_Process_Evidence_Review_and_Learning_Guide.docx) preserves the original September edition.
 
 <details>
 <summary>On this page</summary>
@@ -273,9 +273,9 @@ Record observations before feedback, preserve misses, and distinguish prediction
 
 ## Six-week learning and practice path
 
-Use the expanded [six-week learning path](../practice/LEARNING_PATH.md) and [session journal](../practice/SESSION_JOURNAL_TEMPLATE.md) for weekly reading, preparation, optional short exercises, and a final audit. A reading-only route requires no personal practice or audio purchase.
+Use the [six-week learning path](../practice/LEARNING_PATH.md) and [session journal](../practice/SESSION_JOURNAL_TEMPLATE.md) to follow one case from an initial observation through imagination, action, and a result you can check. The course pairs this memorandum with Haanel's *The Master Key System*. Work through the published example on paper or try the exercises with a case of your own.
 
-The workbook keeps one immediate outcome, one ordinary-life outcome, expectancy, and next-day effects in view. Its audio comparison uses silence and ordinary audio, with a third condition only if a lawful recording is already available. The Week 5 concealed-target demonstration is optional and teaches design limitations; it is not a test that can establish paranormal ability.
+The audio comparison, sleep record, and concealed-target demonstration live in [optional explorations](../practice/OPTIONAL_EXPLORATIONS.md). Read [the Haanel companion](MASTER_KEY_COMPANION.md) for the full progression of his course, or the [comparison and evidence](HAANEL_AND_GATEWAY.md) for research related to the shared questions.
 
 The original September Word edition contains the earlier compact outline. The linked workbook is the current course.
 
