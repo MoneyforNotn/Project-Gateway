@@ -2,7 +2,7 @@
 
 [Home](README.md) · [Start here](START_HERE.md) · [Glossary](research/GLOSSARY.md) · [Evidence review](research/04_Gateway_Process_Evidence_Review_and_Learning_Guide.md)
 
-**About 8 minutes.** Short answers to the recurring claims, with the full review and its sources one step away.
+**Read 3–5 minutes, or choose one question.** Each answer points to its supporting material.
 
 <details>
 <summary>On this page</summary>
@@ -20,6 +20,7 @@
 - [Can I still find Gateway useful if the physics is wrong?](#can-i-still-find-gateway-useful-if-the-physics-is-wrong)
 - [Is this repository trying to debunk Gateway?](#is-this-repository-trying-to-debunk-gateway)
 - [Is the practice risk-free?](#is-the-practice-risk-free)
+- [Why read Haanel alongside Gateway?](#why-read-haanel-alongside-gateway)
 
 </details>
 
@@ -131,6 +132,10 @@ The preferred stance is **curious, empirical, and calibrated**.
 No practice affecting attention, sleep, arousal, or intense introspection should be called universally risk-free.
 
 The broader meditation literature includes adverse experiences in some participants. Keep practice moderate, protect sleep, and pause if it is causing persistent distress, derealization, intrusive experiences, or impaired daily functioning.
+
+## Why read Haanel alongside Gateway?
+
+Haanel’s *The Master Key System* and McDonnell’s memorandum both ask what happens when someone imagines a desired result as already present. Haanel traces how an image can guide action and cooperation within his account of a Universal Mind. McDonnell proposes that a projected thought can affect an event through a universal hologram. Reading the two together brings the different routes into view and gives the course a question to follow through a real case. [Comparison and evidence](research/HAANEL_AND_GATEWAY.md) · [Six-week course](practice/LEARNING_PATH.md)
 
 
 [Back to top](#faq) · [Home](README.md) · [Start here](START_HERE.md) · [Glossary](research/GLOSSARY.md) · [Evidence review](research/04_Gateway_Process_Evidence_Review_and_Learning_Guide.md)

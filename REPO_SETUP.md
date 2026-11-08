@@ -38,13 +38,15 @@ python scripts/check_links.py --external --report external-link-report.json
 
 HTTP 403/429, timeouts, maintenance pages, and publisher challenges require manual inspection. A successful HTTP response is not proof that the page still contains the cited paper. Confirm the title, author, DOI, and claim. External requests are excluded from the required check because host restrictions can change independently of this repository.
 
+For changes to reader instructions or navigation, also run a [reader review](docs/READER_REVIEW.md). It checks what someone can find and do with a page after the link checker confirms the destinations exist.
+
 ## Keep the editions clear
 
 - Markdown is the current reader edition; update its links whenever headings or files move.
 - Source PDFs and historical exhibit images are preserved reference assets. Record any replacement and its provenance.
 - Word files are preserved September 2026 editions. Label a new export with its revision date before replacing them.
 - Record the date and scope of evidence updates in the [changelog](CHANGELOG.md). An availability check is not a new literature search.
-- Keep full-text, abstract-only, and partial access notes in the [inventory](research/05_Research_Source_Inventory.json); update the [reader source guide](research/SOURCES.md) with it.
+- Keep full-text, abstract-only, and partial access notes alongside the claims. For the original Gateway review, update the [inventory](research/05_Research_Source_Inventory.json) and [source guide](research/SOURCES.md) together. For the Haanel synthesis, update the [comparison](research/HAANEL_AND_GATEWAY.md).
 - Do not mirror proprietary Gateway/Monroe audio without permission.
 
 ## Owner decisions still open

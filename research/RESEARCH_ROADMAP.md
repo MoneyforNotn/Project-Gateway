@@ -2,7 +2,7 @@
 
 [Home](../README.md) · [Methodology](METHODOLOGY.md) · [Sources](SOURCES.md) · [Contribute](../CONTRIBUTING.md)
 
-**About 7 minutes.** These are open research questions, not promised findings or unfinished reader resources.
+**Read 3–4 minutes, or choose a research track.** These are open questions and ways to investigate them.
 
 The 1983 memorandum becomes most useful when its explanations are converted back into questions.
 
@@ -33,6 +33,8 @@ The 1983 memorandum becomes most useful when its explanations are converted back
    Compare traditional Gateway language with neutral instructions matched for relaxation, attention, expectancy, imagery, and session structure.
 
 ## Priority research tracks
+
+The [Haanel comparison](HAANEL_AND_GATEWAY.md) adds a question about direct influence: under specified conditions, could an intention change an external outcome through a route other than action or communication? Start by choosing one specific prediction and a comparison that could tell those routes apart. [How to test direct influence](METHODOLOGY.md#how-to-test-direct-influence)
 
 ### Track A — Direct Gateway/Hemi-Sync trials
 
@@ -151,6 +153,10 @@ A failed paranormal prediction can coexist with:
 Likewise, a positive subjective result does not need to imply a paranormal mechanism.
 
 Good research lets these outcomes separate.
+
+## Next checks for the reader resources
+
+Give a first-time reader the paper route and someone else the practice route. Ask them to start from the README, keep their own time, and try the Week 4–5 handoff. Watch for places they need outside help and whether they can tell a missed check from a failed one. The [reader review guide](../docs/READER_REVIEW.md) gives tasks to repeat after editing. This checks the course instructions and timing. Research on the efficacy of Gateway or the course needs its own design.
 
 
 [Back to top](#research-roadmap) · [Home](../README.md) · [Methodology](METHODOLOGY.md) · [Sources](SOURCES.md) · [Contribute](../CONTRIBUTING.md)

@@ -2,7 +2,7 @@
 
 [Home](../README.md) · [Transcript](../transcript/03_Gateway_Process_Editable_Transcript.md) · [Government PDF](../source/01_Source_GovInfo_CIA_Release.pdf) · [Supplementary PDF](../source/02_Supplement_Complete_Copy_With_Page_25.pdf)
 
-**About 5 minutes.** Check which copy you are reading and how editorial changes are marked.
+**Read about 3 minutes.** Check which copy you are reading and how editorial changes are marked.
 
 <details>
 <summary>On this page</summary>

@@ -6,10 +6,12 @@
 <summary>On this page</summary>
 
 - [Good contributions](#good-contributions)
+- [What belongs here](#what-belongs-here)
 - [Before submitting a new scientific source](#before-submitting-a-new-scientific-source)
 - [Claim-writing rules](#claim-writing-rules)
 - [Transcript corrections](#transcript-corrections)
 - [Evidence-review changes](#evidence-review-changes)
+- [Reader review](#reader-review)
 - [Extraordinary claims](#extraordinary-claims)
 - [Health claims](#health-claims)
 - [Copyright](#copyright)
@@ -38,6 +40,12 @@ The governing question is:
 - evidence that materially changes an assessment in either direction,
 - corrections to our interpretation of physics/neuroscience/statistics.
 
+## What belongs here
+
+Name the passage, claim, or reader task a contribution helps with. Give it one home in the archive, evidence review, or learning path, and link there from other pages. Keep historical material when it establishes what someone wrote, where a copy came from, or how an interpretation changed. Mark snapshots and give readers a route to the current edition.
+
+For a book or other new source, cite the passage and edition, explain what the source adds, and identify where it disagrees with Gateway or where its claims need their own evidence. A shared word such as *energy* or *mind* is a starting point for comparison. A useful comparison shows what the authors mean by it and what follows from each account. Add an exercise when it gives the reader a concrete observation, decision, or check to make.
+
 ## Before submitting a new scientific source
 
 Please include:
@@ -54,8 +62,7 @@ Please include:
 - key limitations,
 - exactly which Gateway claim it informs.
 
-Whenever possible, add or update the corresponding entry in
-`research/05_Research_Source_Inventory.json`.
+Record the source where its claim is discussed. For the original Gateway evidence review, also update the [source inventory](research/05_Research_Source_Inventory.json) and [source guide](research/SOURCES.md). The [Haanel comparison](research/HAANEL_AND_GATEWAY.md) carries its sources and access notes alongside the relevant claims.
 
 ## Claim-writing rules
 
@@ -92,6 +99,10 @@ For transcription changes:
 A new source should change the prose only when it changes the evidentiary balance or materially improves accuracy.
 
 Conflicting high-quality evidence should generally remain visible rather than being “resolved” by deleting one side.
+
+## Reader review
+
+For changes to a reading route, exercise, or interpretation, give a fresh reader one task and the page where they would start. Save what they actually tried, fix the issue, and repeat the task with the revised text. The [reader review guide](docs/READER_REVIEW.md) includes a prompt for agents, a source-review variant, and a short report format.
 
 ## Extraordinary claims
 

@@ -1,8 +1,10 @@
+![Project Gateway field guide](assets/gateway-field-guide.svg)
+
 # Start here
 
 [Home](README.md) · [Glossary](research/GLOSSARY.md) · [Learning path](practice/LEARNING_PATH.md)
 
-**About 5 minutes.** Leave this page knowing what the document is, which claims need separate tests, and where to go next.
+**Read 2–3 minutes.** Meet the Gateway memorandum and choose a first reading or activity.
 
 ## The story in sixty seconds
 
@@ -23,15 +25,16 @@ The [evidence review](research/04_Gateway_Process_Evidence_Review_and_Learning_G
 > What mechanism might explain it?<br>
 > Did it reveal independently verifiable information?
 
-A vivid experience can be worth understanding without determining the answers to the other questions.
+A vivid experience can be worth understanding in its own right. An image may change a decision. A claim that it directly changed an outside event asks for a different kind of check. [Compare the claims](research/EVIDENCE_AT_A_GLANCE.md#four-questions-to-keep-separate)
 
 ## Choose your available time
 
 | Time | Route | What you can take away |
 |---|---|---|
-| Ten minutes | [Evidence at a glance](research/EVIDENCE_AT_A_GLANCE.md), then [FAQ](FAQ.md) | The major claims, their boundaries, and the source-history corrections |
-| One hour | [Review's opening matrix](research/04_Gateway_Process_Evidence_Review_and_Learning_Guide.md#executive-evidence-matrix), then one topic and its linked sources | A claim you can trace from summary to underlying evidence |
-| Six weeks | [Learning path](practice/LEARNING_PATH.md), with optional exercises or a reading-only route | A record of what you learned, observed, and still cannot conclude |
+| 3–5 minutes | [Evidence at a glance](research/EVIDENCE_AT_A_GLANCE.md) | Which claims are supported, contested, or still open |
+| One topic at a time | [Review's opening matrix](research/04_Gateway_Process_Evidence_Review_and_Learning_Guide.md#executive-evidence-matrix), then one topic and its linked sources | A claim you can trace from summary to underlying evidence |
+| Six short weekly lessons | [Learning path](practice/LEARNING_PATH.md) | Follow one case through attention, imagination, action, and a result you can check |
+| A deeper reading | [The Master Key companion](research/MASTER_KEY_COMPANION.md) | Compare Haanel's 24 lessons with the Gateway memorandum at your own pace |
 
 Reading estimates are guides, not deadlines. The complete transcript and review are longer reference works; use their contents to select a section.
 

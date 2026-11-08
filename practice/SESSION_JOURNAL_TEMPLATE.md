@@ -1,21 +1,71 @@
-# Session Journal Template
+<a id="session-journal-template"></a>
 
-[Learning path](LEARNING_PATH.md) · [Simple session](LEARNING_PATH.md#a-simple-session) · [Methodology](../research/METHODOLOGY.md) · [Glossary](../research/GLOSSARY.md)
+# Gateway case journal
 
-Keep a short record that distinguishes what happened from what it might mean. Most entries should take about three minutes across the session and next-day check. Use the optional sections only when relevant.
+[Six-week path](LEARNING_PATH.md) · [One case record](#case-record) · [Optional exploration templates](#optional-exploration-templates) · [Methodology](../research/METHODOLOGY.md)
 
-Copy the blocks below into a private note or notebook. A local Markdown file works; no app, account, or public upload is needed. Do not put personal health information or other people's private details into a public repository or issue.
+Use a private note or notebook. Copy the case record once and add one short entry each week. If you follow the course on paper, use the fictional map case and the same headings. Leave private details out of issues, pull requests, and public copies.
 
-**Use the same measures throughout.** The learning path defaults to tension before/after and one daily outcome, such as completing a preselected 15-minute task by day's end. Choose and define an alternative before starting, then keep that definition stable. These personal ratings are not clinical scores.
+## Case record
 
-- **Tension:** 0 = none; 10 = as tense as I can imagine. Change = after − before; negative means less reported tension.
-- **Expected helpfulness:** 0 = no help expected; 10 = very helpful. Record before the session.
-- **Sleep quality:** 0 = very poor; 10 = very restful. Record after waking.
-- **Session status:** completed / shortened / stopped / missed. Record the actual duration; a missed session still gets a brief entry.
+Keep the words you wrote before an action or check. Date later additions. “Nothing new,” “missed,” and “unchecked” are useful entries.
+
+```text
+CASE
+What small change am I exploring?
+Starting photo, sketch, or description:
+
+WEEK 1 · STILLNESS AND CHOICE
+Sensation / urge / response:
+What would count as success, and when will I check it?
+
+WEEK 2 · ATTENTION AND RELEASE
+Question and detail I returned to:
+Distraction and what I saw on returning:
+
+WEEK 3 · REMEMBERING AND INVENTING
+What I recalled before checking:
+What the original shows:
+What I imagined adding:
+
+WEEK 4 · IMAGE AND ACTION
+Planned first move before imagining:
+Detail and assumption I noticed / first move after imagining:
+Three things the result depends on (mark what I can change and what I will check):
+Action chosen after tracing the causes / action taken:
+Original check and time:
+Observed result, or why it is unchecked:
+One condition or person's choice that mattered:
+One observation that could change my next move:
+
+WEEK 5 · INTUITION
+Question left open by Week 4:
+What I knew before the break:
+Dated idea as it arrived and its possible source, or no idea:
+What I checked afterward and what the source confirmed:
+
+WEEK 6 · INTERPRETATION
+One first-person report / one action / one checked fact:
+What the record supports:
+What the philosophical account adds or would need to show:
+One observation that changed my conclusion:
+What I will check next, or leave unresolved:
+```
+
+On paper, write “map case” where the template asks about your own case. A single line is enough when it gives the particular detail the week's question asks for.
+
+## Optional exploration templates
+
+Use the records below with the [optional explorations](OPTIONAL_EXPLORATIONS.md). Each module stands alone. Keep an impression, its interpretation, and any independently checked fact on separate lines.
+
+- [Audio baseline and session](#setup-and-baseline)
+- [Dream or sleep-onset note](#dream-or-sleep-onset-note)
+- [Concealed-target record](#pre-feedback-record)
+- [Weekly audit](#weekly-audit) and [source claim card](#reading-only-claim-card)
 
 ## Setup and baseline
 
-Copy once. Take 3–7 days of baseline records before the practice route; see [preparation](LEARNING_PATH.md#preparation-before-week-1). The reading-only route can use the [claim card](#reading-only-claim-card) instead.
+Copy once if you want an ordinary baseline for the [audio comparison](OPTIONAL_EXPLORATIONS.md#audio-and-expectancy). Define a daily outcome before starting, such as whether you completed a preselected 15-minute task by the end of the day. A 3–7 day record describes ordinary variation. A paper review can use the [claim card](#reading-only-claim-card).
 
 ```text
 Question I am exploring:
@@ -34,6 +84,8 @@ Date | Tension at planned session time | Sleep quality | Daily outcome | Unusual
 Continue the daily-outcome record on days without sessions. Do not fill in a missing rating from memory later; mark it missing.
 
 ## Session entry
+
+For the [audio session](OPTIONAL_EXPLORATIONS.md#a-simple-comparison-session), rate tension from 0 (none) to 10 (as tense as you can imagine), expected helpfulness from 0 (no help expected) to 10 (very helpful), and optional sleep quality from 0 (very poor) to 10 (very restful). Keep definitions consistent.
 
 Copy for each planned session. If missed, fill in the date, status, and reason only. Keep original entries; label later additions with their date and time.
 
@@ -87,7 +139,7 @@ Optional mood or focus rating: define endpoints and use them consistently.
 
 ## Dream or sleep-onset note
 
-For [Week 4](LEARNING_PATH.md#week-4-sleep-dreams-and-self-location), record after natural waking. Do not interrupt sleep to collect an entry. “No recall” is sufficient.
+For the [optional sleep exploration](OPTIONAL_EXPLORATIONS.md#sleep-dreams-and-self-location), record after natural waking. Do not interrupt sleep to collect an entry. “No recall” is sufficient.
 
 ```text
 Date/time recorded:
@@ -99,7 +151,7 @@ Sleep quality / any disruption:
 
 ## Pre-feedback record
 
-Use only for an externally checkable claim or the optional [Week 5 demonstration](LEARNING_PATH.md#optional-concealed-target-demonstration). The full protocol is in the learning path; this block does not replace randomization, blinding, or independent judging. Do not use it to guide high-stakes decisions.
+Use this for the [concealed-target demonstration](OPTIONAL_EXPLORATIONS.md#optional-concealed-target-demonstration) or a claim with an independent check. Follow the full protocol for randomization, blinding, and independent judging. Use ordinary verification for consequential decisions.
 
 Keep the original report unchanged. Save a dated copy before anyone reveals the answer; a timestamp alone does not demonstrate that a record was never edited. Label all later additions and keep them outside the original.
 
@@ -157,11 +209,11 @@ Next review date:
 
 For the optional concealed-target exercise, add **trials planned / completed / scorable / compromised**, all individual scores, and the original scoring rule. Record misses and ambiguous reports as faithfully as hits. Do not turn a broad impression into a specific prediction after feedback.
 
-For the final [Week 6 audit](LEARNING_PATH.md#week-6-integration-and-audit), include the baseline, adherence, expectancy, next-day outcomes, and all adverse effects in the decision. A before/after change or a preferred audio condition does not establish its cause.
+When reviewing the optional audio comparison, include baseline observations if you made them, missed sessions, expectancy, next-day outcomes, and discomfort. A before/after comparison describes the pattern in your own record.
 
 ## Reading-only claim card
 
-Copy once per week; no session or personal disclosure is needed.
+Copy once for a claim you want to examine. Use only what the source and its evidence can support.
 
 ```text
 Week / topic:

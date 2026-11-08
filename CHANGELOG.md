@@ -1,5 +1,13 @@
 # Changelog
 
+## Unreleased
+
+- Rebuilt the six-week course around one case, with a paper route, a matching journal, and short readings paired with the original sources.
+- Added a companion through Haanel's 24 lessons and an evidence comparison with the Gateway memorandum.
+- Kept audio, dream recall, and concealed-target exercises accessible as optional explorations.
+- Added a repeatable reader review alongside the link checks and refreshed key page headers and reading estimates.
+- Focused the README on reader routes and clarified how to cite, assess, and place new sources.
+
 ## Reader resource revision — 2026-10-25
 
 - Restored the research, practice, source, transcript, figure, and issue-template folders absent from the public repository.
